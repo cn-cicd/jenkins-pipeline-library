@@ -1,1 +1,1 @@
-# jenkins-pipeline-library
+# Jenkins Pipeline Library
